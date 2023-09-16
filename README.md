@@ -1,4 +1,17 @@
-# Google IT Automation with Python Professional Certificate - ONGOING!
+# [Google IT Automation with Python Professional Certificate](https://www.credly.com/badges/47116441-c734-4380-b36e-36c4eab41073) - COMPLETED. 
+## Now, a [Trained and Certified Python Automation Engineer](https://www.credly.com/badges/47116441-c734-4380-b36e-36c4eab41073)
+
+<p style="text-align:center">
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CL3DTC4H3GV2" target="_blank">
+    <img src="https://github.com/erwinpasia/ERP-IT-Automation-with-Python-Professional-Certificate/blob/main/images/Google_GITAWP_PC.png" alt="Google IT Automation with Python Professional Certificate"  />
+    </a>
+</p>
+
+<p style="text-align:center">
+    <a href="https://www.credly.com/badges/47116441-c734-4380-b36e-36c4eab41073" target="_blank">
+    <img src="https://github.com/erwinpasia/ERP-IT-Automation-with-Python-Professional-Certificate/blob/main/images/Google_GITAWP_PC_Badge.png" alt="Google IT Automation with Python Professional Certificate"  />
+    </a>
+</p>
 
 This six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
 
